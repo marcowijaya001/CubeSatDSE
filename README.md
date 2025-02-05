@@ -1,4 +1,4 @@
-CubeSatDSE is a tool to support the automation of managing variability & interdependencies of Cyber Physical System (i.e. CubeSat system) with configuring & optimizing component parameters.
+CubeSatDSE is a tool to support the automation of variability & interdependencies management of a Cyber Physical System (i.e. CubeSat system) with configuring & optimizing component parameters.
 
 CubeSatDSE makes use of Architecture Design Space Graph (ADSG) and Multidisciplinary Design Optimization (MDO) methods, with a link by Class Factory Evaluator (CFE).
 
